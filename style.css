@@ -1,0 +1,26 @@
+/*
+	Theme Name: Skeleton
+	Theme URI: https://github.com/medienreaktor/skeleton
+	Author: medienreaktor GmbH
+	Author URI: http://medienreaktor.de
+	Version: 1.0.0
+	Text Domain: skeleton
+*/
+
+@import "css/typo.css";
+
+body {
+
+}
+
+@media( min-width: 768px ) {
+
+}
+
+@media( min-width: 992px ) {
+
+}
+
+@media( min-width: 1200px ) {
+	
+}
