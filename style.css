@@ -1,9 +1,9 @@
 /*
 	Theme Name: Skeleton
-	Theme URI: https://github.com/medienreaktor/skeleton
-	Author: medienreaktor GmbH
-	Author URI: http://medienreaktor.de
-	Version: 1.0.0
+	Theme URI: https://github.com/leo/skeleton
+	Author: Leonard Lamprecht
+	Author URI: https://leo.im
+	Version: 0.1.0
 	Text Domain: skeleton
 */
 
@@ -22,5 +22,5 @@ body {
 }
 
 @media( min-width: 1200px ) {
-	
+
 }

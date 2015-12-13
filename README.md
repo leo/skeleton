@@ -1,6 +1,6 @@
 # skeleton
 
-This code is used by our team to create WordPress themes for our customers.
+That's the boilerplate I'm using to create WordPress themes.
 
 # Usage
 
